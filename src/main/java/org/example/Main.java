@@ -20,9 +20,9 @@ public class Main {
     public DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
     public String obj = "141";
 
-    public static final String URL ="jdbc:mysql://localhost:3306/parcing_db";
+    public static final String URL ="way to db";
     public static final String USER = "root";
-    public static final String PASSWORD = "3216";
+    public static final String PASSWORD = "pass";
 
 
     public static void main(String[] args) throws TelegramApiException {
