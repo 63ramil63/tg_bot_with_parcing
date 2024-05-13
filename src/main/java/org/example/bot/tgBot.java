@@ -97,11 +97,11 @@ public class tgBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken(){
-        return "7091360410:AAFYRbPVV9zf4uXcCW8JJzWOAbMQb4ODlng";
+        return "token";
     }
 
     @Override
     public String getBotUsername() {
-        return "LEsSonBot163_bo";
+        return "name";
     }
 }
